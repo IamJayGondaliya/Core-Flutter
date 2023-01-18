@@ -1,4 +1,4 @@
-# PR- 4(BUILDER)
+# CH-2. FUNDAMENTALS OF DART.
 
 
 <u>**Aim 1**</u> :Write a Dart program to Print Hello Dart. 
@@ -56,7 +56,7 @@
 
 <img src="https://github.com/jb-jaydeep/Core-Flutter/blob/master/Ch-2/image/pr-2-1-7.png" height = "200px" alt = "unable to load image.">
 
-<u>**Aim 8**</u> :Write a Dart program to create a calculator using switch case.
+<u>**Aim 8**</u> Write a Dart program to find a Simple Interest.
 
 <u>**Program File**</u> : ch-2-1-8.dart
 
